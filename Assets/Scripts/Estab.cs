@@ -18,6 +18,6 @@ public class Estab : MonoBehaviour
     }
 
     public void Mapa(){
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 }

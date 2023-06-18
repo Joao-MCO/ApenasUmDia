@@ -18,7 +18,7 @@ public class MainMap : MonoBehaviour
     }
 
     public void Delegacia(){
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(12);
     }
 
     public void Banco(){
