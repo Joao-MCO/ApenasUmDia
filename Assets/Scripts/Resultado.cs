@@ -8,5 +8,6 @@ public class Resultado : MonoBehaviour
     public void Voltar(){
         SceneManager.LoadScene(0);
         gameObject.SetActive(false);
+        
     }
 }
