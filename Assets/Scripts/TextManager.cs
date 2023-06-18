@@ -11,6 +11,8 @@ public class TextManager : MonoBehaviour
     void Start()
     {
         instance = this;
+    }
+    private void Update() {
         hora.text = GameController.instance.GetTempo().ToString() + "h";
     }
 }
