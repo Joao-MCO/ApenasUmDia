@@ -275,6 +275,10 @@ PrefabInstance:
       propertyPath: m_text
       value: Anne Lis
       objectReference: {fileID: 0}
+    - target: {fileID: 5206360441220842128, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 59147b8b9a052744289239c1b51105d1, type: 3}
     - target: {fileID: 5206360442556943534, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Name
       value: Canvas

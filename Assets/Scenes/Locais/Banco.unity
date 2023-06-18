@@ -413,19 +413,35 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: frases.Array.data[0]
-      value: GALO
+      value: "A v\xEDtima foi vista voltando da igreja para o hotel."
       objectReference: {fileID: 0}
     - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: frases.Array.data[1]
-      value: MAIOR DE
+      value: Ele afirma que as flores foram sim compradas na floricultura.
       objectReference: {fileID: 0}
     - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: frases.Array.data[2]
-      value: MINAS
+      value: "A v\xEDtima tinha emprestado dinheiro do banco recentemente."
       objectReference: {fileID: 0}
     - target: {fileID: 5206360441048216956, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_text
       value: Sr. Miner
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360441220842128, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 4a87c617385003f45a63ff11e1b0a92e, type: 3}
+    - target: {fileID: 5206360441597270207, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360442099921804, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360442478262535, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_text
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 5206360442556943534, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Name
