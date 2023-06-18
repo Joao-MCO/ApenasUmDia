@@ -58,4 +58,9 @@ public class MainMap : MonoBehaviour
         SceneManager.LoadScene(11);
         GameController.instance.Acao(1);
     }
+
+    public void Back()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
 }
