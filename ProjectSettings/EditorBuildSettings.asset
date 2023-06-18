@@ -10,38 +10,38 @@ EditorBuildSettings:
     guid: 9d886a982d95feb42b6209ffa4c10f54
   - enabled: 1
     path: Assets/Scenes/LevelSelect.unity
-    guid: 7139b12677a51db4fb6d2b77ea0458c3
+    guid: b4d3d2229f4c0ca4083e8b68c57f6a8b
   - enabled: 1
     path: Assets/Scenes/MainMap.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Locais/Delegacia.unity
-    guid: 342039aa80e941c418591b7c0911eb01
-  - enabled: 1
     path: Assets/Scenes/Locais/Banco.unity
-    guid: c1c4b936a3509494780be322b246b835
+    guid: 8c94f622cb9ef1240b6cecbfc208c149
   - enabled: 1
     path: Assets/Scenes/Locais/Bar.unity
-    guid: e78e6b56f00df204fbdc451f92b7fb0f
+    guid: 6fcf816abf88bd345a92b5d5482793ba
   - enabled: 1
     path: Assets/Scenes/Locais/EstacaoDeTrem.unity
-    guid: 019d40a5d4a7b794cad19903fa55d1ef
+    guid: 53fa1de4631ccee4d9988d0166c5a605
   - enabled: 1
     path: Assets/Scenes/Locais/Farmacia.unity
-    guid: 9d6a51fbe1053c7408db5250bf5fcb00
+    guid: c2cc8fa478ee74946bd77e58b8c88a69
   - enabled: 1
     path: Assets/Scenes/Locais/Floricultura.unity
-    guid: 768c44ee37601e34190f1c196112026f
+    guid: eeb094101425d8442950b46598f582fb
   - enabled: 1
     path: Assets/Scenes/Locais/Hotel.unity
-    guid: dc84fb2e3236f4748a935110574dc0f3
+    guid: 7f2b504398c80574296d8590ab30fe9e
   - enabled: 1
     path: Assets/Scenes/Locais/Igreja.unity
-    guid: 988b23effad82d94abf1de04c90c95f9
+    guid: 8ee543c4f8fb15d43a8339c294c199c7
   - enabled: 1
     path: Assets/Scenes/Locais/Restaurante.unity
-    guid: 84e3fca6fccae5b43a5af89d18bb8bb4
+    guid: c9bd33003b8cbae4d811154c05c90603
   - enabled: 1
     path: Assets/Scenes/Anotacoes.unity
-    guid: ad1af8b01c5402044bfa8c730e661b3d
+    guid: 6f9fdff20ad596a4da2c5ca9983f1b47
+  - enabled: 1
+    path: Assets/Scenes/Locais/Delegacia.unity
+    guid: 95eee1111350e0443a5be4493e0b130c
   m_configObjects: {}
