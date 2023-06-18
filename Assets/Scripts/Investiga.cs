@@ -17,10 +17,14 @@ public class Investiga : MonoBehaviour
     }
 
     public void Gasta(int b){
+        Visual(b);
+        GameController.instance.Acao(acao);
+        acao += 1;
+    }
+
+    public void Visual(int b){
         botoes[b].interactable = false;
         paneis[b].SetActive(true);
         dicas[b].text = frases[b];
-        GameController.instance.Acao(acao);
-        acao += 1;
     }
 }

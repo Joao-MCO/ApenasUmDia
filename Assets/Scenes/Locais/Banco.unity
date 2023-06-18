@@ -413,7 +413,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: frases.Array.data[0]
+<<<<<<< Updated upstream
       value: "A v\xEDtima foi vista voltando da igreja para o hotel."
+=======
+      value: RUIVO MATOU
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: frases.Array.data[1]
