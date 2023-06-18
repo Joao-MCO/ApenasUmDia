@@ -43,7 +43,7 @@ public class MissaoManager : MonoBehaviour
             floricultura.interactable = true;
             hotel.interactable = true;
             igreja.interactable = true;
-            restaurante.interactable = true;
+            restaurante.interactable = false;
         }else{
             banco.interactable = true;
             bar.interactable = true;
