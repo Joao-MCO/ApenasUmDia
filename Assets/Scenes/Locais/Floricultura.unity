@@ -271,6 +271,19 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: frases.Array.data[0]
+      value: "Ela diz ter chegado na cidade \xE0 noite, ap\xF3s o crime ter sido
+        cometido."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: frases.Array.data[1]
+      value: "Ela n\xE3o nega que a v\xEDtima era um de seus clientes."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: frases.Array.data[2]
+      value: "A v\xEDtima era um dos s\xF3cios do hotel."
+      objectReference: {fileID: 0}
     - target: {fileID: 5206360441048216956, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_text
       value: Anne Lis
