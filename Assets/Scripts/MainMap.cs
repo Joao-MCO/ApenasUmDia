@@ -7,7 +7,6 @@ using UnityEngine.SceneManagement;
 
 public class MainMap : MonoBehaviour
 {
-    
     // Vou deixar como padrão 1h, mas caso queira mudar, só fazer um IF
     public void Delegacia(){
         SceneManager.LoadScene(12);
@@ -56,7 +55,6 @@ public class MainMap : MonoBehaviour
 
     public void Anotacoes(){
         SceneManager.LoadScene(11);
-        GameController.instance.Acao(1);
     }
 
     public void Back()
