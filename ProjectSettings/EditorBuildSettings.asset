@@ -14,34 +14,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMap.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/Banco.unity
     guid: 8c94f622cb9ef1240b6cecbfc208c149
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/Bar.unity
     guid: 6fcf816abf88bd345a92b5d5482793ba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/EstacaoDeTrem.unity
     guid: 53fa1de4631ccee4d9988d0166c5a605
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/Farmacia.unity
     guid: c2cc8fa478ee74946bd77e58b8c88a69
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/Floricultura.unity
     guid: eeb094101425d8442950b46598f582fb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/Hotel.unity
     guid: 7f2b504398c80574296d8590ab30fe9e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/Igreja.unity
     guid: 8ee543c4f8fb15d43a8339c294c199c7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/Restaurante.unity
     guid: c9bd33003b8cbae4d811154c05c90603
   - enabled: 1
     path: Assets/Scenes/Anotacoes.unity
     guid: 6f9fdff20ad596a4da2c5ca9983f1b47
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Locais/Delegacia.unity
     guid: 95eee1111350e0443a5be4493e0b130c
   m_configObjects: {}
