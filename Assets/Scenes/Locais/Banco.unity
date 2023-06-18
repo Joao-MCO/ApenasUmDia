@@ -411,6 +411,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: frases.Array.data[0]
+      value: GALO
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: frases.Array.data[1]
+      value: MAIOR DE
+      objectReference: {fileID: 0}
+    - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: frases.Array.data[2]
+      value: MINAS
+      objectReference: {fileID: 0}
     - target: {fileID: 5206360442556943534, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Name
       value: Canvas

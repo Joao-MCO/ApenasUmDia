@@ -19,6 +19,7 @@ public class Investiga : MonoBehaviour
     public void Gasta(int b){
         botoes[b].interactable = false;
         paneis[b].SetActive(true);
+        dicas[b].text = frases[b];
         GameController.instance.Acao(acao);
         acao += 1;
     }
