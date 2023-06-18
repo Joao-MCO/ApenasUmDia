@@ -37,13 +37,13 @@ public class MissaoManager : MonoBehaviour
     private void VerificaMissao(){
         if(caso==1){
             banco.interactable = true;
-            bar.interactable = true;
-            estacao.interactable = false;
+            bar.interactable = false;
+            estacao.interactable = true;
             farmacia.interactable = false;
             floricultura.interactable = true;
             hotel.interactable = true;
             igreja.interactable = true;
-            restaurante.interactable = false;
+            restaurante.interactable = true;
         }else{
             banco.interactable = true;
             bar.interactable = true;
