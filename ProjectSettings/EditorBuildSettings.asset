@@ -11,4 +11,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMap.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Locais/Delegacia.unity
+    guid: 342039aa80e941c418591b7c0911eb01
+  - enabled: 1
+    path: Assets/Scenes/Locais/Banco.unity
+    guid: c1c4b936a3509494780be322b246b835
+  - enabled: 1
+    path: Assets/Scenes/Locais/Bar.unity
+    guid: e78e6b56f00df204fbdc451f92b7fb0f
+  - enabled: 1
+    path: Assets/Scenes/Locais/EstacaoDeTrem.unity
+    guid: 019d40a5d4a7b794cad19903fa55d1ef
+  - enabled: 1
+    path: Assets/Scenes/Locais/Farmacia.unity
+    guid: 9d6a51fbe1053c7408db5250bf5fcb00
+  - enabled: 1
+    path: Assets/Scenes/Locais/Floricultura.unity
+    guid: 768c44ee37601e34190f1c196112026f
+  - enabled: 1
+    path: Assets/Scenes/Locais/Hotel.unity
+    guid: dc84fb2e3236f4748a935110574dc0f3
+  - enabled: 1
+    path: Assets/Scenes/Locais/Igreja.unity
+    guid: 988b23effad82d94abf1de04c90c95f9
+  - enabled: 1
+    path: Assets/Scenes/Locais/Restaurante.unity
+    guid: 84e3fca6fccae5b43a5af89d18bb8bb4
+  - enabled: 1
+    path: Assets/Scenes/Anotacoes.unity
+    guid: ad1af8b01c5402044bfa8c730e661b3d
   m_configObjects: {}

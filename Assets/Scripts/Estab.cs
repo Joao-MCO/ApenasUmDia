@@ -1,8 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class Locais : MonoBehaviour
+public class Estab : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -14,5 +15,9 @@ public class Locais : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void Mapa(){
+        SceneManager.LoadScene(1);
     }
 }
