@@ -9,4 +9,8 @@ public class Estab : MonoBehaviour
     public void Mapa(){
         SceneManager.LoadScene(2);
     }
+
+    public void Anotacoes(){
+        SceneManager.LoadScene(11);
+    }
 }

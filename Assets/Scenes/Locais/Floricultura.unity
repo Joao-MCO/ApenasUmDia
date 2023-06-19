@@ -291,7 +291,7 @@ PrefabInstance:
     - target: {fileID: 5206360441220842128, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 59147b8b9a052744289239c1b51105d1, type: 3}
+      objectReference: {fileID: 21300000, guid: 866ca71bca474b2469af710a95a4a36f, type: 3}
     - target: {fileID: 5206360442556943534, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -395,6 +395,10 @@ PrefabInstance:
     - target: {fileID: 5206360442577288658, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Color.r
       value: 0.7924528
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360442753762745, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_Color.a
+      value: 0.74509805
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}

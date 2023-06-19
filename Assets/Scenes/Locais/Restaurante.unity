@@ -389,6 +389,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5206360440729813008, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_text
+      value: RESTAURANTE
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360440839900531, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -440.412
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360440839900531, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 22.9501
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360441220842128, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: bdf94e3b44da60f449ddf4cc9b7bcab8, type: 3}
+    - target: {fileID: 5206360442040617348, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5206360442556943534, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -475,6 +495,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5206360442556943698, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360442577288656, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360442753762743, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

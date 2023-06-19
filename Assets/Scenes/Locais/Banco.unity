@@ -413,7 +413,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: frases.Array.data[0]
-      value: RUIVO MATOU
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1113288896958603116, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: frases.Array.data[1]
@@ -430,10 +430,14 @@ PrefabInstance:
     - target: {fileID: 5206360441220842128, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4a87c617385003f45a63ff11e1b0a92e, type: 3}
+      objectReference: {fileID: 21300000, guid: f1ab896e6c2c65147a59291987607d26, type: 3}
     - target: {fileID: 5206360441597270207, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_text
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360441655326410, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5206360442099921804, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_text
@@ -546,6 +550,10 @@ PrefabInstance:
     - target: {fileID: 5206360442577288658, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Color.r
       value: 0.8867924
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206360442753762745, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_Color.a
+      value: 0.74509805
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}

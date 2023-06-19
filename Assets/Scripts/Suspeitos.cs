@@ -9,7 +9,9 @@ public class Suspeitos : MonoBehaviour
     public TMP_Text textConfirm;
     public GameObject panelConfirm;
     public void Palpite(TMP_Text texto){
-        textConfirm.text = texto.text;
-        panelConfirm.SetActive(true);
+        if(CenaManager.instance.GetCena() == 12){
+            textConfirm.text = texto.text;
+            panelConfirm.SetActive(true);
+        }
     }
 }

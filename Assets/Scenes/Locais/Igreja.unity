@@ -348,6 +348,10 @@ PrefabInstance:
       propertyPath: m_text
       value: Gale
       objectReference: {fileID: 0}
+    - target: {fileID: 5206360441220842128, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 234a457e5c91674419cfe718876e01ed, type: 3}
     - target: {fileID: 5206360442556943534, guid: 3fee0a50f18f3c24bbcde11c4ec9b680, type: 3}
       propertyPath: m_Name
       value: Canvas

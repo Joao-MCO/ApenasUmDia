@@ -19,6 +19,7 @@ public class Investiga : MonoBehaviour
     public void Gasta(int b){
         Visual(b);
         GameController.instance.Acao(acao);
+        // DicaManager.instance.vistos[b] = true;
         acao += 1;
     }
 
